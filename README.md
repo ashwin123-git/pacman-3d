@@ -118,5 +118,3 @@ This project focuses on:
 * Gradually improving toward a full Pac-Man clone
 
 ---
-
-Enjoy the game 😄
